@@ -2,7 +2,9 @@ My Grocery List
 - Apples
 - Bananas
 - Potato Chips
+- Milk
 - Eggs
 - Butter
 - Sugar
 - Lemons
+- Water
