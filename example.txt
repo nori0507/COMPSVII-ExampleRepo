@@ -5,6 +5,7 @@ My Grocery List
 - Potato Chips
 - Eggs
 - Butter
+- Rice
 - Sugar
 - Lemons
 - Ramen
