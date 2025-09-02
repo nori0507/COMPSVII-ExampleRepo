@@ -1,5 +1,6 @@
 My Grocery List
 - Apples
+- milk
 - Bananas
 - Potato Chips
 - Eggs
